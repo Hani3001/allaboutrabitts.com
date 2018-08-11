@@ -1,0 +1,40 @@
+<DOCTYPE html>
+<html>
+<body>
+<title>a web about rabbits</title>
+<h1>what is this web about?????</h1>
+<p>its about some web about <em><strong></em>RABITTS</strong></p><br>
+<p>you will be a litle bit filing that's funny (I AM NOT JOKING) but thats ok</p><br>
+<h2>jump buttons</h2>
+<a href="#t3fr"><button>jump to Top 3 most famous rabbits</button></a>
+<a href="#song"><button>jump to song</button></a>
+<a href="#"><button></button></a>
+<a href="#"><button></button></a>
+ <h2>an image of a CUTE rabbit</h2>
+<img src="https://www.kasandbox.org/programming-images/animals/rabbit.png" alt="Rabbit with lop ears in barn" width="203">
+<h2>why rabbits make great animals</h2>
+<ul>
+        <li>They're furry!</li>
+        <li>Great listeners!</li>
+        <li>Eat all your leftover carrots!</li>
+    </ul>
+<h2>Top 3 most famous rabbits</h2>
+<ol id="t3fr">
+        <li>Bugs bunny</li>
+        <li>Easter Bunny</li>
+        <li>Thumper</li>
+    </ol>
+<h2>song</h2>
+<p id="song">Little Bunny Foo Foo, <br>
+I don't want to see you <br>
+scooping up the field mice <br>
+and bopping them on the head!And down came the Good Fairy <br>
+And she said <br>
+"Little bunny Foo Foo <br>
+I don't like you're attitude <br>
+Scooping up the field mice <br>
+And bopping 'em on the head"<br>
+</p>
+
+</body>
+</html>
